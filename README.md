@@ -21,7 +21,7 @@ Most of what I ship lives in private repos, so this page links to the things you
 - **[Hi-Lo Royale](https://github.com/lordofclaude/hilo-royale)** — prediction battle royale on real World Cup data. One fan, 99 simulated rivals, one match, with verifiable TxODDS and ORAO receipts on Solana. Built at the TxODDS World Cup hackathon. [Live](https://hilo-royale.vercel.app).
 - **[Foresight](https://github.com/lordofclaude/foresight)** — verified prediction reputation on TxLINE and Solana, so a forecaster's record is provable rather than claimed. [Live](https://foresight-txline.vercel.app).
 - **[Operator Prompts](https://github.com/lordofclaude/operator-prompts)** — free AI prompts written for specific professions rather than for prompt engineers.
-- **[Operator Programs](https://github.com/lordofclaude/operator-programs-site)** — the site for them. [Live](https://lordofclaude.github.io/operator-programs-site/).
+- **[Operator Programs](https://github.com/lordofclaude/operator-programs-site)** — ten practical AI programs, each written for one profession and screen-recorded on real work rather than toy examples. [Live](https://ai-courses-beta.vercel.app).
 
 ## How I work
 
