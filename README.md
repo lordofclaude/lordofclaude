@@ -27,3 +27,7 @@ A business-oriented developer with data science expertise, hands-on with Claude 
 **Operator Prompts** — free AI prompts written for specific professions.
 
 **Operator Programs** — practical AI courses, one for each profession.
+
+## Contact
+
+[linkedin.com/in/tiagobentodias](https://www.linkedin.com/in/tiagobentodias)
