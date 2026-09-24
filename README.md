@@ -4,6 +4,12 @@ I build voice AI agents, on-device computer vision, and iOS apps. Mostly solo, m
 
 Most of what I ship lives in private repos, so this page links to the things you can actually open and use.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lordofclaude/lordofclaude/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lordofclaude/lordofclaude/output/github-contribution-grid-snake.svg" />
+  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/lordofclaude/lordofclaude/output/github-contribution-grid-snake.svg" />
+</picture>
+
 ## Shipped
 
 **[Hirefly](https://hirefly.io)** — recruiting platform where an AI agent phones candidates, runs a structured screening call, and scores it. Twilio and ElevenLabs behind a consent-first flow, plus an audio-analysis pipeline (Praat, openSMILE) that derives a communication score from the real call instead of a self-assessment. Designed to stay on the right side of the EU AI Act: no inferred emotion or personality, only measurable speech properties.
@@ -28,6 +34,19 @@ Most of what I ship lives in private repos, so this page links to the things you
 TypeScript and Expo/React Native for products, Python for analysis and data pipelines, Cloudflare Workers and Supabase for backends.
 
 I put the test effort where being wrong is expensive. The wall-ball judge is the clearest example: instead of building to TestFlight to find out whether it counts correctly, it replays a recorded video through the exact shipped pipeline offline, and grades the result against a ground truth derived from the ball's hang time, which is pure physics and needs no camera calibration at all. That turned a two-hour round trip per hypothesis into a two-minute one, and it immediately found that the shipped judge was detecting none of the 31 throws in a real clip.
+
+```mermaid
+flowchart LR
+    F["Camera frame"] --> R["GPU letterbox"]
+    R --> CR["Athlete-tracking crop"]
+    CR --> M["MoveNet pose model"]
+    M --> U["Perspective ruler<br/>from tilt + focal length"]
+    U --> G{"Dual gate"}
+    G -->|"hip below knee"| D["Depth ✓"]
+    G -->|"apex from<br/>conserved energy"| H["Height ✓"]
+    D --> V["Good rep / no-rep"]
+    H --> V
+```
 
 ## Elsewhere
 
