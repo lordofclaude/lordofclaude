@@ -10,17 +10,15 @@ A business-oriented developer with data science expertise, hands-on with Claude 
   <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/lordofclaude/lordofclaude/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## Shipped
+## Notable projects
 
 **WallBall Coach** — an iOS app that uses the phone's camera to automatically judge and count workout reps in real time.
 
-**Cordial call bridge** — a voice AI system built for a partner's missed-call product. It answers the phone, understands the caller, and sends a summary with next steps.
+**Cordial** — a voice AI system built for a partner's missed-call product. It answers the phone, understands the caller, and sends a summary with next steps.
 
 **Station Nine** — a fitness training app with an AI coach that adapts to your training history.
 
 **Connect Hub** — a personal CRM that helps you stay in touch with the people in your network.
-
-## Open source
 
 **Hi-Lo Royale** — a prediction game built on real World Cup data, with results that are verifiable rather than just claimed.
 
