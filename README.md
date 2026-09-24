@@ -27,7 +27,3 @@ A business-oriented developer with data science expertise, hands-on with Claude 
 **Operator Prompts** — free AI prompts written for specific professions.
 
 **Operator Programs** — practical AI courses, one for each profession.
-
-## Elsewhere
-
-Email: `tiagobrbdias@gmail.com`
