@@ -4,6 +4,8 @@ Strategy Director at impact.com. AI enthusiast. Former strategy consultant at Ro
 
 A business-oriented developer with data science expertise, hands-on with Claude Code, Cursor, and other AI tooling — building real apps for real-world use cases. More to come.
 
+Outside of work: 2x marathon runner and HYROX athlete.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lordofclaude/lordofclaude/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lordofclaude/lordofclaude/output/github-contribution-grid-snake.svg" />
