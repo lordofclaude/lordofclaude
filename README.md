@@ -1,6 +1,6 @@
 # Tiago Dias
 
-Strategy Director at impact.com. AI enthusiast. Former strategy consultant at Roland Berger, and former investment banker at JPMorgan and Blackstone.
+Strategy Director at impact.com. AI enthusiast and Global Hermes AI Hackathon Winner. Former strategy consultant at Roland Berger, and former investment banker at JPMorgan and Blackstone and Tech Hedge Fund Manager.
 
 A business-oriented developer with data science expertise, hands-on with Claude Code, Cursor, and other AI tooling — building real apps for real-world use cases. More to come.
 
