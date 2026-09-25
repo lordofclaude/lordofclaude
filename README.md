@@ -16,7 +16,7 @@ Outside of work: 2x Marathon runner and 4xHYROX
 
 ## Notable projects
 
-**WallBall Coach** — an iOS app that uses the phone's camera to automatically judge and count workout reps in real time.
+**WallBall Coach** — an iOS app that uses the phone's camera to automatically judge and count wall ball reps in real time.
 
 **Cordial** — a voice AI system built for a partner's missed-call product. It answers the phone, understands the caller, and sends a summary with next steps.
 
