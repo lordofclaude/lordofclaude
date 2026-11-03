@@ -16,7 +16,7 @@ Outside of work: 2x Marathon runner and 4xHYROX
 
 ## Notable projects
 
-**Tiewell** — an iPhone app, now live on the App Store, that tells you who to keep in touch with each week and reminds you what you last talked about. [tiewell.app](https://tiewell.app)
+**Tiewell** — the leading personal CRM iOS app for the people who matter. Each week it tells you who to reach out to and reminds you what you last talked about, with birthday reminders, a Home Screen widget and Siri. Private by design: no ads, EU-hosted, never used to train AI. Founded, built and launched on the App Store in 2026. [tiewell.app](https://tiewell.app)
 
 <a href="https://apps.apple.com/app/tiewell-keep-in-touch/id6799409288"><img src="https://tiewell.app/assets/badge-black.svg" alt="Download on the App Store" height="40" /></a>
 
