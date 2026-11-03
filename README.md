@@ -16,9 +16,9 @@ Outside of work: 2x Marathon runner and 4xHYROX
 
 ## Notable projects
 
-<a href="https://tiewell.app"><img src="https://tiewell.app/assets/og-tw-v2.jpg" alt="Tiewell" width="320" /></a>
+**Tiewell** — an iPhone app, now live on the App Store, that tells you who to keep in touch with each week and reminds you what you last talked about. [tiewell.app](https://tiewell.app)
 
-**Tiewell** — an iPhone app, now live on the App Store, that tells you who to keep in touch with each week and reminds you what you last talked about. [App Store](https://apps.apple.com/app/tiewell-keep-in-touch/id6799409288) · [tiewell.app](https://tiewell.app)
+<a href="https://apps.apple.com/app/tiewell-keep-in-touch/id6799409288"><img src="https://tiewell.app/assets/badge-black.svg" alt="Download on the App Store" height="40" /></a>
 
 **WallBall Coach** — an iOS app that uses the phone's camera to automatically judge and count wall ball reps in real time.
 
