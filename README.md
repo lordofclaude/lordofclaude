@@ -28,7 +28,7 @@ Outside of work: 2x Marathon runner and 4xHYROX
 
 <p align="center">
   <a href="https://apps.apple.com/app/tiewell-keep-in-touch/id6799409288">
-    <img src="https://tools.applemarketingtools.com/api/badges/download-on-the-app-store/black/en-us" alt="Download Tiewell on the App Store" height="56" />
+    <img src="https://tiewell.app/assets/badge-black.svg" alt="Download Tiewell on the App Store" height="56" />
   </a>
   &nbsp;&nbsp;
   <a href="https://tiewell.app"><b>tiewell.app →</b></a>
